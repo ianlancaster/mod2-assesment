@@ -1,5 +1,5 @@
 import { expect } from 'chai'
-import { shallow, mount, render } from 'enzyme'
+import { scoreWord } from '../lib/utilities/scripts'
 
 describe('scripts.js', () => {
   it('what should it do', () => {

@@ -1,5 +1,4 @@
 import { expect } from 'chai'
-import { shallow, mount, render } from 'enzyme'
 import { letterScores } from '../lib/utilities/constants'
 
 describe('constants.js', () => {
